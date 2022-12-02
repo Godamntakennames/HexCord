@@ -2,16 +2,16 @@
     "manifest": {
         "author": "Godamntakennames",
         "name": "HexCord",
-        "version": "1.0.0",
-        "updater": "https:\/\/github.com/Godamntakennames/HexCord/blob/main/hexcord.json"
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com/Godamntakennames/Hexcord/main/hexcord.json"
     },
     "background": {
         "overlay_alpha": 0,
         "blur_radius": 0,
-        "url": "https:\/\/github.com/Godamntakennames/HexCord/blob/main/hexcord.jpg"
+        "url": "https:\/\/raw.githubusercontent.com/Godamntakennames/Hexcord/main/hexcord.jpg"
     },
     "fonts": {
-        "*": "https:\/\/github.com/Godamntakennames/HexCord/blob/main/hexcord.ttf"
+        "*": "https:\/\/raw.githubusercontent.com/Godamntakennames/Hexcord/main/hexcord.ttf"
     },
     "simple_colors": {
         "background_secondary": -13369290,
